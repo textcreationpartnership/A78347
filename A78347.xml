@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange nevves from the north. Containing a true and exact relation of a great and terrible earth-quake in Cumberland and Westmerland. With the miraculous apparition of three glorious suns that appeared at once. And other wonderful appearances that happened in Yorkeshire, of divers bodies of armed men marching, and riding through every town for twelve miles compass about Malton, with the strange accidents that befel the cattel therabout through fright thereof, to the admiration of many thousand beholders. Together with, the charge against Charles Howard Esquire High Sheriff of the county of Cumberland. Verefied by severall gentlemen of known and approved credit.</title>
+            <author>T. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78347</idno>
+            <idno type="STC">Wing C142</idno>
+            <idno type="STC">Thomason E603_3</idno>
+            <idno type="STC">ESTC R205789</idno>
+            <idno type="EEBO-CITATION">99865065</idno>
+            <idno type="PROQUEST">99865065</idno>
+            <idno type="VID">165648</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78347)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165648)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 93:E603[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange nevves from the north. Containing a true and exact relation of a great and terrible earth-quake in Cumberland and Westmerland. With the miraculous apparition of three glorious suns that appeared at once. And other wonderful appearances that happened in Yorkeshire, of divers bodies of armed men marching, and riding through every town for twelve miles compass about Malton, with the strange accidents that befel the cattel therabout through fright thereof, to the admiration of many thousand beholders. Together with, the charge against Charles Howard Esquire High Sheriff of the county of Cumberland. Verefied by severall gentlemen of known and approved credit.</title>
+                  <author>T. C.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Clowes and are to be sold at the Royal Exchange and without Cripplegate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>June 11. 1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 4: T.C.</note>
+                  <note>With a woodcut of Tinmouth Castle and Newcastle on titlepage.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Earthquakes --  England --  Early works to 1800.</term>
+               <term>Omens --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165648:1" rendition="simple:additions"/>
+            <p>STRANGE NEWES From the <hi>NORTH.</hi>
+            </p>
+            <p>CONTAINING A True and exact Relation of a great and terrible Earth-quake in <hi>Cumberland</hi> and <hi>Weſtmerland.</hi> With the mira<g ref="char:EOLhyphen"/>culous Apparition of three glorious Suns that appeared at once. And o<g ref="char:EOLhyphen"/>ther wonderful Appearances that happened in <hi>Yorkeſhire,</hi> of divers bodies of armed men marching, and riding through every Town for twelve miles compaſs about <hi>Malton,</hi> with the ſtrange accidents that befel the Cattel therabout through fright thereof, to the admiration of many thouſand be<g ref="char:EOLhyphen"/>holders. Together with, the Charge againſt <hi>Charles Howard</hi> Eſquire High Sheriff of the County of <hi>Cumberland.</hi>
+            </p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>erefied by ſeverall Gentlemen of known and approved credit.</hi>
+            </p>
+            <figure>
+               <head>TINMOUTH-CASTLE</head>
+               <figDesc>depiction of Tynemouth Castle</figDesc>
+            </figure>
+            <p>LONDON, Printed by <hi>J. Clowes</hi> and are to be ſold at the <hi>Royal Exchange</hi> and without <hi>Cripplegate, June</hi> 11. 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165648:2"/>
+            <pb n="1" facs="tcp:165648:2"/>
+            <head>STRANGE NEVVES FROM THE NORTH.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have often mentioned in my let<g ref="char:EOLhyphen"/>ters to you, the many and mar<g ref="char:EOLhyphen"/>velous ſigns and ſights, which before and ſince theſe Warrs, have been ſeen in theſe our Northern parts, the Lord war<g ref="char:EOLhyphen"/>ning us as it were thereby, not only of our late troubles, but of the continuance thereof; if by righteous judgements our Governors do not appeaſe his anger, I form<g ref="char:EOLhyphen"/>erly related to you how ſhortly after the <hi>Scots</hi> march into <hi>England</hi> in aide of our Parliament, it rained blood, and covered the Church and Church-yard of <hi>Bewcaſtle</hi> in <hi>Cumberland,</hi> of three Suns ſeen there the day before <hi>Edg-hill</hi> battle, and a little before <hi>Hamble<g ref="char:EOLhyphen"/>ton</hi> with his Army came into <hi>England,</hi> two Armies
+<pb n="2" facs="tcp:165648:3"/> were in Yorkſhire, ſeen in the aire viſſibly, diſcharg<g ref="char:EOLhyphen"/>ing and ſhooting one againſt the other; and ſeeming<g ref="char:EOLhyphen"/>ly after a long fight, the Army which roſe out of the North, firſt vaniſhed. This laſt Winter in the North we have had very ſtrange and fearful ſtorms, with much thunder and lightnings; But to admiration that of the 18. of <hi>January</hi> laſt was moſt remarkable, in the night time the ſtorm began very fearfully, Armies and Armed Troops, (in every town for twelve miles com<g ref="char:EOLhyphen"/>paſs about <hi>Molton</hi> in Yorkſhire) were heard to ride and march through the Towns; their Cattle and beaſts in theſe Towns, were ſo frighted with the ſtorm, as moſt of them broke out of their paſtures, ſome break<g ref="char:EOLhyphen"/>ing their necks and ſome their legs in this madding fit, ſome run away four miles, ſome more, who when found and brought home, were ſo wild and heated, as if they had been chaſed with a hundred maſtive Dogs; one Oxe where he lay in a ſtake-yard lame, and not a<g ref="char:EOLhyphen"/>ble to riſe without the help of man, in this ſtorm broke out, and the next day was found lying above a mile from the place he was in the night before, and was brought home on a ſledge; for a month after the the ſtorm, the beaſts thereabouts run madding about, and would not be kept in their Paſtures, people were ſo aſtoniſhed therewith, as for a long time they had little other diſcourſe then of the ſtrangneſs of the ſtorm. I ſee a Relation of three Suns, lately ſeen a<g ref="char:EOLhyphen"/>bout <hi>Mancheſter;</hi> but ſure it is, that in the beginning of <hi>March</hi> laſt, there were ſeen at one time in <hi>Cumber<g ref="char:EOLhyphen"/>land</hi> and <hi>Weſtmerland,</hi> three glorious Suns, to the ad<g ref="char:EOLhyphen"/>miration and great aſtoniſhment of many thouſands of the beholders.</p>
+            <p>And further, upon the 11. of <hi>April</hi> laſt about 5. of the clock in the afternoon, in the Counties of <hi>Cumber<g ref="char:EOLhyphen"/>land</hi>
+               <pb n="3" facs="tcp:165648:3"/> and <hi>Weſtmerland,</hi> we had a general Earth-quake; the people were ſo frighted therewith, that they for<g ref="char:EOLhyphen"/>ſook their houſes, and ſome houſes were ſo ſhaken, that the Chimnies fell down; Some may doubt and queſtion the verity of theſe things, be confident I have related nothing but what I know to be true, and have had from men of known and approved credit. Theſe things I thought good to communicate to you, as I have done before things of like nature; for news we have little in theſe parts, only great fear of the <hi>Scots</hi> in<g ref="char:EOLhyphen"/>vading us again; I could wiſh our honorable Parlia<g ref="char:EOLhyphen"/>ment and Councel of State, as they are very ſenſible of the enſuing threatned troubles, and for prevention whereof, as they have increaſed their forces: ſo they would be pleaſed, to make diligent inquiry of all in Magiſtracy, how they ſtand affected to the Common-Wealth under this preſent Government, eſpecially in theſe our bordering Counties, which will be a dore to let in, or kepe out any enemy from <hi>Scotland.</hi> Here the honeſt party are much caſt down, our Juſtices of the Peace do countinance ſuch Miniſters as be againſt the Engagement, and Mr. <hi>Baldwin</hi> the Lecturer of <hi>Penreth</hi> and other Miniſters there, have had ſundry privat mee<g ref="char:EOLhyphen"/>tings, and do work privatly againſt the ſubſcribing the Engagement, if ſomewhat be not ſpeedily done here<g ref="char:EOLhyphen"/>in, all our County will be againſt the Engagement. Our new Sheriff of <hi>Cumberland</hi> the moſt powerful man of the County, we find he hath been in Arms, both in the firſt and ſecond War; and now hath for his Agent and Councellor, one <hi>Lawyer Fallowfeild</hi> a profeſt <hi>Papiſt,</hi> and now ſaid to be a Prieſt; and the o<g ref="char:EOLhyphen"/>ther day came from the <hi>Iriſh</hi> Rebels (as I hear) in <hi>Ire<g ref="char:EOLhyphen"/>land.</hi> How in the laſt War our Sheriff behaved him<g ref="char:EOLhyphen"/>ſelf,
+<pb n="4" facs="tcp:165648:4"/> by the Charge and proof before the Commiſſio<g ref="char:EOLhyphen"/>ners for Sequeſtrations in <hi>Cumberland</hi> againſt him wil appear, a Copy thereof being come into my hand I ſend you, deſiring it may be publiſhed for publick good. It were good the Councel of State would take notice of thoſe, who recommend ſuch dangerous per<g ref="char:EOLhyphen"/>ſons to ſo great offices of truſt; by this means honeſt men are ſtill kept under, and till ſuch be removed out of theſe places of truſt, we are never the more ſecure for all our great ſucceſſes and victories; for our ene<g ref="char:EOLhyphen"/>mies though they have loſt their ſwords in battle, yet by regaining the ſword of authority, are in hopes to recover their former eſtate, and bring us under them; in the mean time, by their ill Government they do diſ<g ref="char:EOLhyphen"/>affect the people, and bring them in diſlike of the pre<g ref="char:EOLhyphen"/>ſent Government, and oppreſs the honeſt party, and will be ready as formerly, to invite a forraign enemy, and at home raiſe tumults and inſurrections upon any opportunity; therefore I pray improve your intereſt &amp; credit, that ſuch withus as have been in Arms againſt the Parliament, may no longer continue in ſuch great pla<g ref="char:EOLhyphen"/>ces and offices of truſt, and I ſhall as opportunity ſerves from time to time, let you know the ſtate of our Coun<g ref="char:EOLhyphen"/>ty, in the mean time, I bid you farwel.</p>
+            <closer>
+               <dateline>Penreth <date>30. May 1650.</date>
+               </dateline>
+               <signed>T. C.</signed>
+            </closer>
+         </div>
+         <div type="indictment">
+            <pb n="5" facs="tcp:165648:4"/>
+            <head>The Charge againſt <hi>Charles Howard</hi> Eſquir High She<g ref="char:EOLhyphen"/>riff of the County of <hi>Cumberland,</hi> Exhibited to the <hi>Commiſſioners</hi> for Sequeſtra<g ref="char:EOLhyphen"/>tions in <hi>Cumberland.</hi>
+            </head>
+            <p>THat the ſaid Mr. <hi>Howard,</hi> having a Commiſſion to be a Col. for the King in the laſt war, which he did confeſs was as large as any man had, did by vertue therreof, ſend out his warrants to the ſeveral Conſta<g ref="char:EOLhyphen"/>bles of <hi>Gilſland</hi> for three ſeveral muſters; Requiring, all men above ſixteen, and under threeſcore to appear before him at <hi>Brampton,</hi> And the Conſtables to pre<g ref="char:EOLhyphen"/>ſent their names upon <hi>Thurſday</hi> the 10. of <hi>Auguſt,</hi> 1648. and the fourteenth, and the ſixteenth day of the ſaid moneth following at the ſeveral days, the ſaid Mr. <hi>Howard</hi> came to the aboveſaid place, accompanied with many Soldiers in Arms, under his command, and gave order for free-quarrer for his Soldiers; And that the Conſtables ſhould Leavy monies to pay for the horſes he took in every place.</p>
+            <p>Proof to this Article,
+<list>
+                  <item>Tho. Milburn.</item>
+                  <item>Tho. Bell.</item>
+                  <item>Anthony Hevyſide.</item>
+               </list>
+            </p>
+            <p>Secondly, That the ſaid Mr. <hi>Howard,</hi> took 10. horſes in <hi>Hayton</hi> pariſh for the ſaid ſervice, and proportio<g ref="char:EOLhyphen"/>nably in other pariſhes within <hi>Gilſland</hi> according to the purvey.
+<list>
+                  <item>Tho. Bell <hi>aboveſaid,</hi>
+                  </item>
+                  <item>Anthony Heviſide.</item>
+               </list>
+            </p>
+            <p>Thirdly, That the ſaid Mr. <hi>Howard,</hi> did declare o<g ref="char:EOLhyphen"/>penly at the ſaid Muſters, that the men and Horſe ſo levyed, was for the Kings ſervice; And that he was to meet the Prince with his men at <hi>Barwick</hi> Satturday the 19. of <hi>Auguſt</hi> following.
+<list>
+                  <item>Tho. Milburn.</item>
+                  <item>Tho. Bell.</item>
+               </list>
+            </p>
+            <pb n="6" facs="tcp:165648:5"/>
+            <p>Fourthly, The ſaid Mr. <hi>Howard</hi> ſent a Letter to ten Cavileers that had horſe and Arms, quartering upon <hi>Leonard Hodgſon</hi> Conſtable of <hi>Hartleburn</hi> in <hi>Nor<g ref="char:EOLhyphen"/>thumberland,</hi> That if they would ride in his Troop to <hi>Barwick</hi> as Reformadoes, they ſhould have Command as places fell; and they ſhould come to <hi>Francis Grames</hi> of the Stone houſe in <hi>Gilſland,</hi> and there abouts they ſhould have quarter till they marched to <hi>Barwick.</hi> Proof to this Article
+<list>
+                  <item>Leonard Hodgſon.</item>
+               </list>
+            </p>
+            <p>Fifthly, The ſaid Mr. <hi>Howard,</hi> repared ſeveral times to the enemies Garriſon at <hi>Carlile,</hi> and walked abroad with his Arms.
+<list>
+                  <item>Richard Hutton.</item>
+               </list>
+            </p>
+            <p>Sixthly, At two ſeveral Muſters by warrant from the ſaid Mr. <hi>Howard</hi> in the firſt Article mentioned, the ſaid Mr. <hi>Howard</hi> had made his ſpeeches to the Coun<g ref="char:EOLhyphen"/>try, his Soldiers drew their ſwords and cryed, a King a King.
+<list>
+                  <item>Thomas Addiſon.</item>
+               </list>
+            </p>
+            <p>This Charge was preſented to us, and the ſeveral witneſſes names to every Article, that will make good the ſame.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Tho. Craiſter.</item>
+                     <item>John Muſgrave.</item>
+                     <item>John Priſcoe.</item>
+                     <item>Thomas Laughorne.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
